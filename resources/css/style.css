@@ -16,6 +16,17 @@ header h1 {
     color: aquamarine;
 }
 /* Main content */
-
-
+section h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+.about {
+    font-size: 21px;
+    color: gray;
+}
 /* Footer */
+footer {
+    text-align: right;
+    font-size: 21px;
+    color: gray;
+}
